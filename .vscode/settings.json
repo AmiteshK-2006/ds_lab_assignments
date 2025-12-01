@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "iostream": "cpp",
+        "__bit_reference": "cpp",
+        "__node_handle": "cpp",
+        "any": "cpp",
+        "array": "cpp",
+        "memory": "cpp",
+        "fstream": "cpp",
+        "future": "cpp",
+        "ios": "cpp",
+        "istream": "cpp",
+        "optional": "cpp",
+        "regex": "cpp",
+        "shared_mutex": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "string_view": "cpp",
+        "syncstream": "cpp",
+        "valarray": "cpp",
+        "variant": "cpp",
+        "vector": "cpp"
+    }
+}
